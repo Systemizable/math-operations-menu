@@ -1,0 +1,14 @@
+//
+// Created by Joseph on 1/18/2024.
+//
+
+#ifndef MATH_OPERATIONS_MENU_MATHOPERATIONSMENU_H
+#define MATH_OPERATIONS_MENU_MATHOPERATIONSMENU_H
+
+
+class MathOperationsMenu {
+
+};
+
+
+#endif //MATH_OPERATIONS_MENU_MATHOPERATIONSMENU_H
