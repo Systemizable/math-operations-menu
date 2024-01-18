@@ -6,10 +6,10 @@ int main() {
     int choice;
     do {
         cout<<"Main Menu"<<endl;
-        cout<<"1. Calculate Power"<<endl;
-        cout<<"2. Check Prime Number"<<endl;
-        cout<<"3. Display Number Triangle"<<endl;
-        cout<<"4. Exit"<<endl;
+        cout<<"I. Calculate Power"<<endl;
+        cout<<"II. Check Prime Number"<<endl;
+        cout<<"III. Display Number Triangle"<<endl;
+        cout<<"IV. Exit"<<endl;
         cout << "Enter Your Choice" << endl;
 
         cin>>choice;
